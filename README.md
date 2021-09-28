@@ -1,1 +1,3 @@
-# MSDS600_projects
+# Regis University Notebooks/Projects 
+
+MSDS600: Intro to DS 
